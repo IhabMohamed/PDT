@@ -10,18 +10,18 @@
 
 PDT is mainly composed of three sequential Phases:
 
-1. `Phase #1` is mainly used to convert the acquired from laser scanner (raw data) into a 2D image (in both cases offline and on-line detection and 			tracking) in order to train the proposed Networks.
+1. `Phase #1` is mainly used to convert the acquired data (raw data) from the 2D LRF into a 2D image (in both cases offline and on-line detection and tracking) in order to train the proposed Networks.
 
  
 	There are two functions for performing this phase:
 
-	1. `XYLaserScan.m`: matlab function that shows how to convert the dataset acquired from Polar to Cartesian coordinates in order to train 				the CNNs. All the acquired data have been saved in "AllData" Folder.
-	2. `CollectData.m`: matlab function that is used for collecting data while the robot is moving towards the pallet in order to perform 			Pallet tracking. We considered 3 paths for the same pallet pose in each "Path" there are 10 acquired frames.
+	1. `XYLaserScan.m`: matlab function that shows how to convert the dataset acquired from Polar to Cartesian coordinates in order to train the proposed CNNs. All the acquired data have been saved in "`AllData`" Folder.
+	2. `CollectData.m`: matlab function that is used for collecting data while the robot is moving towards the pallet in order to perform Pallet tracking. We considered 3 paths for the same pallet pose in each "Path" there are 10 acquired frames.
 
 	
 2. `Phase #2` is the phase of the training and testing the Faster R-CNN detector and the CNN classifier. It takes as input the created 2D image. 
 
-	There are two main functions to fine-tune The proposed CNNs:
+	There are two main functions to fine-tune the proposed CNNs:
 	
 	1. `FasterRCNNPallet.m`: matlab function that shows how to train and test the Fast R-CNN detector using the ready data which we collected 		manually using "Image Labeler App". It also shows how to extract ROIs from the given image to train the CNN classifier. 
 
