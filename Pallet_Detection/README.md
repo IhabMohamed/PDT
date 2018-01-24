@@ -19,7 +19,7 @@ PDT is mainly composed of three sequential Phases:
 	2. `CollectData.m`: matlab function that is used for collecting data while the robot is moving towards the pallet in order to perform Pallet tracking. We considered 3 paths for the same pallet pose in each "Path" there are 10 acquired frames.
 
 	
-2. `Phase #2` is the phase of the training and testing the Faster R-CNN detector and the CNN classifier. It takes as input the created 2D image. 
+2. `Phase #2` is the phase of the training and testing the Faster R-CNN detector and the CNN classifier. It takes as input the created 2D images. 
 
 	There are two main functions to fine-tune the proposed CNNs:
 	
