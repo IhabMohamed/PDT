@@ -8,11 +8,21 @@ The proposed system for pallets detection and tracking is mainly composed of two
 1. a Faster Region-based Convolutional Network (Faster R-CNN) detector which is followed by CNN classifier for detecting the pallets.
 2. a motion-based Kalman filter for tracking and increasing the confidence of the presence of the pallet.
 
-## Licensing
+## Licensing and Citations 
 
 This dataset is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, including the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. The authors allow the users of the Data Set to use and modify it for their own research. Any commercial application, redistribution, etc... has to be arranged between users and authors individually.
 
+Eventually, if you use PDT or relevant to your academic work, please cite:
+
+@article{mohamed2018detection,<br/>
+   title={[Detection, localisation and tracking of pallets using machine learning techniques and 2D range data](https://arxiv.org/abs/1803.11254)},<br/>
+   author={Mohamed, Ihab S. and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},<br/>
+  journal={arXiv preprint arXiv:1803.11254},<br/>
+  year={2018},<br/>
+}<br/>
+
 > For further license information, please contact the authors.
+
 
 ## Authors contacts
 
