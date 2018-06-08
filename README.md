@@ -21,12 +21,12 @@ Eventually, if you use PDT or relevant to your academic work, please cite:
   year={2018}<br/>
 }<br/>
 
-@article{mohamed20182d,
-  title={A 2D laser rangefinder scans dataset of standard EUR pallets},
-  author={Mohamed, Ihab S and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},
-  journal={arXiv preprint arXiv:1805.08564},
-  year={2018}
-}
+@article{mohamed20182d,<br/>
+  title={[A 2D laser rangefinder scans dataset of standard EUR pallets](https://arxiv.org/abs/1805.08564)},<br/>
+  author={Mohamed, Ihab S and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},<br/>
+  journal={arXiv preprint arXiv:1805.08564},<br/>
+  year={2018}<br/>
+}<br/>
 
 > For further license information, please contact the authors.
 
