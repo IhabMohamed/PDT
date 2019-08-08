@@ -25,7 +25,7 @@ Eventually, if you use PDT or relevant to your academic work, please cite:
   title={[A 2D laser rangefinder scans dataset of standard EUR pallets](https://www.sciencedirect.com/science/article/pii/S235234091930188X)},<br/>
   author={Mohamed, Ihab S and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},<br/>
   journal={Data in Brief},<br/>
-  year={2018}<br/>
+  year={2019}<br/>
 }<br/>
 
 > For further license information, please contact the authors.
