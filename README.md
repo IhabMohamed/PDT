@@ -15,16 +15,16 @@ This dataset is distributed in the hope that it will be useful, but WITHOUT ANY 
 Eventually, if you use PDT or relevant to your academic work, please cite:
 
 @article{mohamed2018detection,<br/>
-  title={[Detection, localisation and tracking of pallets using machine learning techniques and 2D range data](https://arxiv.org/abs/1803.11254)},<br/>
+  title={[Detection, localisation and tracking of pallets using machine learning techniques and 2D range data](https://link.springer.com/article/10.1007/s00521-019-04352-0?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20190809)},<br/>
    author={Mohamed, Ihab S. and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},<br/>
-  journal={arXiv preprint arXiv:1803.11254},<br/>
-  year={2018}<br/>
+  journal={Neural Computing and Applications},<br/>
+  year={2019}<br/>
 }<br/>
 
 @article{mohamed20182d,<br/>
-  title={[A 2D laser rangefinder scans dataset of standard EUR pallets](https://arxiv.org/abs/1805.08564)},<br/>
+  title={[A 2D laser rangefinder scans dataset of standard EUR pallets](https://www.sciencedirect.com/science/article/pii/S235234091930188X)},<br/>
   author={Mohamed, Ihab S and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},<br/>
-  journal={arXiv preprint arXiv:1805.08564},<br/>
+  journal={Data in Brief},<br/>
   year={2018}<br/>
 }<br/>
 
